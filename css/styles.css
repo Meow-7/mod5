@@ -264,6 +264,9 @@ h3.menu-item-title {
     background: url('../images/jumbotron_768.jpg') no-repeat;
     height: 432px;
   }
+  body {
+  overflow-x: hidden;
+  }
   /* End Home Page */
 }
 
@@ -310,6 +313,9 @@ h3.menu-item-title {
     text-transform: uppercase;
   }
   /* End Header */
+  body {
+  overflow-x: hidden;
+  }
 
   /* Footer */
   .panel-footer section {
